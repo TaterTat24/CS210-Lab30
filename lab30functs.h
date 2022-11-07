@@ -1,7 +1,7 @@
 /** lab30.h
 * ===========================================================
-* Name: FIRST LAST, DATE
-* Section: SECTION
+* Name: Benjamin Tat
+* Section: T6
 * Project: Lab 30
 * Documentation: DOC STATEMENT
 * ===========================================================  */
